@@ -1,2 +1,2 @@
 # declarativesecurity.com
-Declarative Security 
+We are working on something cool! 
